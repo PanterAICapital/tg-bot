@@ -1,7 +1,3 @@
-Voici le texte mis à jour avec "PanterAI" remplacé par "SEKOIA" :
-
----
-
 **PanterAI Telegram Bot**
 
 This is a Telegram bot for **PanterAI**, designed to assess if **PanterAI** is a fit as an investor for your idea. The bot guides users through a series of questions and collects their responses, including uploading PDF files to Google Drive.
@@ -65,4 +61,4 @@ node index.js
 Contributions are welcome! Please open an issue or submit a pull request.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. 
